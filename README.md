@@ -18,3 +18,9 @@ A Sample Application for the [SSDUG](https://ssdug.org) [Front End Face Off](htt
 A browser window should open and display the site.
 
 **Note:** You can also continuously run the unit tests by opening another terminal window and running the command `npm test`.
+
+## Demo
+
+[![ReactNorris](http://img.youtube.com/vi/Tm0Cg5u1Zjo/0.jpg)](http://www.youtube.com/watch?v=Tm0Cg5u1Zjo)
+
+Click image for video.
