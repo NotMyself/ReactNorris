@@ -1,0 +1,33 @@
+{
+  "name": "front-end-face-off-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "precommit": "lint-staged",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,json,css}": [
+      "prettier --single-quote --write",
+      "git add"
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "bootstrap": "^4.0.0",
+    "husky": "^0.14.3",
+    "jquery": "^1.9.1",
+    "lint-staged": "^6.1.0",
+    "prettier": "^1.10.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "react-spinners": "^0.2.6",
+    "react-switch": "^2.3.0",
+    "reactstrap": "^5.0.0-beta"
+  }
+}
