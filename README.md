@@ -22,5 +22,3 @@ A browser window should open and display the site.
 ## Demo
 
 [![ReactNorris](http://img.youtube.com/vi/Tm0Cg5u1Zjo/0.jpg)](http://www.youtube.com/watch?v=Tm0Cg5u1Zjo)
-
-Click image for video.
