@@ -1,5 +1,7 @@
 # ReactNorris [![Join us](https://webtasks.iamnotmyself.com/notmyself/ssdug-slackin/badge.svg)](https://webtasks.iamnotmyself.com/notmyself/ssdug-slackin/)
 
+![Gringotts](/docs/images/react-norris.jpg?raw=true "ReactNorris")
+
 A Sample Application for the [SSDUG](https://ssdug.org) [Front End Face Off](https://github.com/ssdug/FrontEndFaceOff).
 
 ## Getting Started
